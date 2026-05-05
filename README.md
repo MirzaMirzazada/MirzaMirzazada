@@ -30,6 +30,4 @@ Hi, I’m Mirza, focused on AI and machine learning. I’m interested in develop
 
  ## Contact Me
 
- <p align="center">
-  <a href="www.linkedin.com/in/mirzamirzazade"><img width="100px" height="25px" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mirzamirzazade)

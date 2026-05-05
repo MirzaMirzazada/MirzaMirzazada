@@ -5,7 +5,9 @@ Hi, I’m Mirza, focused on AI and machine learning. I’m interested in develop
 ## What I Work On
 
 **Machine Learning & Deep Learning:** Building and experimenting with models for prediction, pattern recognition, and data-driven solutions.
+
 **Data Collection & Automation:** Using web scraping and scripting to gather, clean, and process real-world data.
+
 **Backend Development:** Creating web applications and APIs with Django and Flask, focusing on functionality and reliability.
 
 ## Skills
